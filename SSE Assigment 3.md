@@ -146,10 +146,6 @@ We open browser at http://localhost:80.
 
 ![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/430f0bcd-d703-4d6f-964e-0288c6fd696a)
 
-
-
-
-
 ![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/6fd47428-8694-4e6c-92ca-1cf10208d007)
 
 ![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/16f00b20-4f8f-4518-b046-085c4b0aabfe)
@@ -167,6 +163,8 @@ We open browser at http://localhost:80.
 ![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/e1be4ef5-b843-4f55-b1ba-9a6e69fdfc8a)
 
 ![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/3f9205bb-f3c9-4de0-a635-bbaae0fe65e3)
+
+
 
 # Installation Kubernates
 
@@ -220,3 +218,4 @@ starting at its file location
 ![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/42962c95-772c-422a-b31a-d27165408474)
 
 ![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/e406cff4-72f9-4c54-a185-179c2400d946)
+
